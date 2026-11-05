@@ -1,0 +1,10 @@
+Deployment Status: Pending Cloud Authorization
+Hosting Platform Options: IBM Cloud Code Engine (Coursera Lab Default), Render, or Railway
+Production Configuration: Prepared (WSGI / Gunicorn, staticfiles routing, environment variables, microservice endpoints)
+
+Required Information from User to finalize public deployment:
+1. Target Platform: IBM Cloud Code Engine, Render, or Railway.
+2. Deployment Credentials: Cloud API Key / Project Namespace or Platform Access Token.
+
+Note: In accordance with academic integrity and the project execution rules, a live URL will only be recorded once deployed using authorized student cloud credentials.
+

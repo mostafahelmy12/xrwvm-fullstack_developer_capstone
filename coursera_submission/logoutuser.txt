@@ -1,0 +1,16 @@
+cURL Command:
+curl -i -b cookies.txt -X GET http://127.0.0.1:8000/djangoapp/logout
+
+HTTP Response:
+HTTP/1.1 200 OK
+Server: WSGIServer/0.2 CPython/3.13.12
+Content-Type: application/json
+X-Frame-Options: DENY
+Vary: Cookie
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Cross-Origin-Opener-Policy: same-origin
+Set-Cookie: sessionid=""; expires=Thu, 01 Jan 1970 00:00:00 GMT; Max-Age=0; Path=/; SameSite=Lax
+
+{"userName": "testuser", "status": "Logged out"}
+

@@ -1,0 +1,30 @@
+.github/workflows/ci.yml:51: new blank line at EOF.
+README.md:3: trailing whitespace.
+[32m+[m[32m**Repository Name:** `xrwvm-fullstack_developer_capstone`[m[41m  [m
+README.md:4: trailing whitespace.
+[32m+[m[32m**GitHub Origin:** `https://github.com/ibm-developer-skills-network/xrwvm-fullstack_developer_capstone.git`[m[41m  [m
+README.md:5: trailing whitespace.
+[32m+[m[32m**Student GitHub Fork:** `https://github.com/yashmantri781/xrwvm-fullstack_developer_capstone`[m[41m  [m
+README.md:6: trailing whitespace.
+[32m+[m[32m**Project Name:** Dealership Application Using Django and React[m[41m  [m
+README.md:12: trailing whitespace.
+[32m+[m[32mThe **Dealership Application** is a full-stack, cloud-native web platform designed for exploring nationwide automotive dealerships, browsing certified vehicle models, reading verified customer reviews with real-time sentiment analysis, and submitting new reviews.[m[41m [m
+coursera_submission/CI-CD.txt:37: new blank line at EOF.
+coursera_submission/README.md:3: trailing whitespace.
+[32m+[m[32m**Repository Name:** `xrwvm-fullstack_developer_capstone`[m[41m  [m
+coursera_submission/README.md:4: trailing whitespace.
+[32m+[m[32m**GitHub Origin:** `https://github.com/ibm-developer-skills-network/xrwvm-fullstack_developer_capstone.git`[m[41m  [m
+coursera_submission/README.md:5: trailing whitespace.
+[32m+[m[32m**Student GitHub Fork:** `https://github.com/yashmantri781/xrwvm-fullstack_developer_capstone`[m[41m  [m
+coursera_submission/README.md:6: trailing whitespace.
+[32m+[m[32m**Project Name:** Dealership Application Using Django and React[m[41m  [m
+coursera_submission/README.md:12: trailing whitespace.
+[32m+[m[32mThe **Dealership Application** is a full-stack, cloud-native web platform designed for exploring nationwide automotive dealerships, browsing certified vehicle models, reading verified customer reviews with real-time sentiment analysis, and submitting new reviews.[m[41m [m
+coursera_submission/deploymentURL.txt:10: new blank line at EOF.
+coursera_submission/django_server.txt:14: new blank line at EOF.
+coursera_submission/loginuser.txt:19: new blank line at EOF.
+coursera_submission/logoutuser.txt:16: new blank line at EOF.
+server/frontend/src/components/Register/Register.jsx:154: new blank line at EOF.
+server/frontend/static/Contact.html:44: trailing whitespace.
+[32m+[m[41m        [m
+server/frontend/static/Contact.html:79: new blank line at EOF.

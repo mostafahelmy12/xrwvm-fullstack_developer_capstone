@@ -1,0 +1,15 @@
+﻿cURL Command:
+curl -i http://127.0.0.1:8000/djangoapp/get_cars
+
+HTTP Response:
+HTTP/1.1 200 OK
+Date: Thu, 05 Nov 2026 14:34:42 GMT
+Server: WSGIServer/0.2 CPython/3.13.12
+Content-Type: application/json
+X-Frame-Options: DENY
+Content-Length: 850
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Cross-Origin-Opener-Policy: same-origin
+
+{"CarModels": [{"CarModel": "Pathfinder", "CarMake": "NISSAN"}, {"CarModel": "Qashqai", "CarMake": "NISSAN"}, {"CarModel": "Altima", "CarMake": "NISSAN"}, {"CarModel": "C-Class", "CarMake": "Mercedes"}, {"CarModel": "E-Class", "CarMake": "Mercedes"}, {"CarModel": "GLC", "CarMake": "Mercedes"}, {"CarModel": "3 Series", "CarMake": "BMW"}, {"CarModel": "5 Series", "CarMake": "BMW"}, {"CarModel": "X5", "CarMake": "BMW"}, {"CarModel": "Corolla", "CarMake": "Toyota"}, {"CarModel": "Camry", "CarMake": "Toyota"}, {"CarModel": "RAV4", "CarMake": "Toyota"}, {"CarModel": "Civic", "CarMake": "Honda"}, {"CarModel": "Accord", "CarMake": "Honda"}, {"CarModel": "CR-V", "CarMake": "Honda"}, {"CarModel": "Explorer", "CarMake": "Ford"}, {"CarModel": "Mustang", "CarMake": "Ford"}, {"CarModel": "A4", "CarMake": "Audi"}, {"CarModel": "Q5", "CarMake": "Audi"}]}
