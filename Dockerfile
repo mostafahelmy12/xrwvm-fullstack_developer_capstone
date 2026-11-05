@@ -4,6 +4,8 @@ ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
 ENV PORT=8000
 ENV CI=false
+ENV backend_url=http://localhost:3030
+ENV sentiment_analyzer_url=http://localhost:5050/
 
 # Install Node.js, npm, curl, and build tools
 RUN apt-get update && apt-get install -y --no-install-recommends \
@@ -30,8 +32,8 @@ RUN cd server/database && npm install && \
 # Collect static files for Whitenoise
 RUN python server/manage.py collectstatic --noinput
 
-# Make startup script executable
-RUN chmod +x /app/start.sh
+# Make startup script executable and normalize line endings
+RUN sed -i 's/\r$//' /app/start.sh && chmod +x /app/start.sh
 
 EXPOSE 8000
 
