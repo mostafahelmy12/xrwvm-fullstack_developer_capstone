@@ -16,4 +16,3 @@ Set-Cookie: sessionid=[SESSION_COOKIE_VALUE]; expires=Thu, 19 Nov 2026 14:31:15 
 
 Authentication Result:
 Success (status: Authenticated)
-

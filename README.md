@@ -1,15 +1,15 @@
 # Dealership Application Using Django and React
 
-**Repository Name:** `xrwvm-fullstack_developer_capstone`  
-**GitHub Origin:** `https://github.com/ibm-developer-skills-network/xrwvm-fullstack_developer_capstone.git`  
-**Student GitHub Fork:** `https://github.com/yashmantri781/xrwvm-fullstack_developer_capstone`  
-**Project Name:** Dealership Application Using Django and React  
+**Repository Name:** `xrwvm-fullstack_developer_capstone`
+**GitHub Origin:** `https://github.com/ibm-developer-skills-network/xrwvm-fullstack_developer_capstone.git`
+**Student GitHub Fork:** `https://github.com/yashmantri781/xrwvm-fullstack_developer_capstone`
+**Project Name:** Dealership Application Using Django and React
 
 ---
 
 ## Project Overview
 
-The **Dealership Application** is a full-stack, cloud-native web platform designed for exploring nationwide automotive dealerships, browsing certified vehicle models, reading verified customer reviews with real-time sentiment analysis, and submitting new reviews. 
+The **Dealership Application** is a full-stack, cloud-native web platform designed for exploring nationwide automotive dealerships, browsing certified vehicle models, reading verified customer reviews with real-time sentiment analysis, and submitting new reviews.
 
 The application is built using a modern decoupled microservices architecture:
 - **Django Backend**: Serves as the central API gateway, authentication service, and relational vehicle database manager (managing Car Makes and Car Models).
