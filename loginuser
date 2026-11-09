@@ -1,0 +1,5 @@
+$ curl -X POST "https://u446008203-8000.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/djangoapp/login" -H "Content-Type: application/json" -d '{"userName": "root", "password": "Root@12345"}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    46    0     0  100    46      0     37  0:00:01  0:00:01 --:--:--    37100    46    0     0  100    46      0     20  0:00:02  0:00:02 --:--:--    20100   126  100    80  100    46     25     14  0:00:03  0:00:03 --:--:--    39100   126  100    80  100    46     25     14  0:00:03  0:00:03 --:--:--    39
+{"userName": "root", "firstName": "", "lastName": "", "status": "Authenticated"}

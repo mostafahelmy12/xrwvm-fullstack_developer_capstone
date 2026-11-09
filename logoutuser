@@ -1,0 +1,5 @@
+$ curl -X GET "https://u446008203-8000.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/djangoapp/logout"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    40  100    40    0     0    419      0 --:--:-- --:--:-- --:--:--   416100    40  100    40    0     0    419      0 --:--:-- --:--:-- --:--:--   416
+{"userName": "", "status": "Logged out"}

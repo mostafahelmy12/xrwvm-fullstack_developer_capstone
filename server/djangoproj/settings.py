@@ -156,3 +156,13 @@ CSRF_TRUSTED_ORIGINS = ['https://*.cognitiveclass.ai', 'https://*.skills.network
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'frontend/static')
 ]
+
+TEMPLATES[0]['DIRS'] = [
+    os.path.join(BASE_DIR, 'frontend/static'),
+    os.path.join(BASE_DIR, 'frontend/build'),
+]
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'frontend/static'),
+    os.path.join(BASE_DIR, 'frontend/build'),
+    os.path.join(BASE_DIR, 'frontend/build/static'),
+]
